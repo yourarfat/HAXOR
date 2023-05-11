@@ -36,7 +36,7 @@ Hound is a simple and light tool for information gathering and capture exact GPS
 
   <p>The tool offers a wide range of features and functionality, including:</p>
 
-    <ul>
+   <ul>
 
   <li>Capture Exact GPS Location</li>
 
